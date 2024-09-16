@@ -47,8 +47,8 @@
     "react-native": "^0.59.5"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
+    "react": "^16.0.0 || ^18.2.0",
     "prop-types": "^15.0.0",
-    "react-native": "^0.55.0"
+    "react-native": "^0.55.0 || 0.74.5"
   }
 }
